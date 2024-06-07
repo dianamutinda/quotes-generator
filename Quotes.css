@@ -1,0 +1,20 @@
+
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: bisque;
+    width: 50rem;
+    height: 50vh;
+    text-transform: capitalize;
+    margin-left: 15rem;
+    border-radius: 30px;
+}
+.text button{
+    padding: 10px;
+    background-color: azure;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
